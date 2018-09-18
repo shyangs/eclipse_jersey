@@ -1,0 +1,5 @@
+package io.github.shyangs.jerseyws.metadata;
+
+public class Student {
+
+}
